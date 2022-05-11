@@ -40,7 +40,7 @@ object FancyMain2 extends IOApp.Simple {
 }
 
 // Some definitions
-trait DbConnection { // This will be a very fancy library (orm, jdbc, ...)
+trait DbConnection { // This will be implemented by a (orm, jdbc, ...) library
   def transact[T](dbQuery: String): IO[T]
 }
 trait Repository[T] {
