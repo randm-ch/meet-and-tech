@@ -132,6 +132,20 @@ object Examples {
   /** So much more... */
   FancyMain // Hello world! Wait... why?
 
-  // Scala.js, scala-native
+
+
+
+
+
+
+
+
+
+  // This "presentation":
+  // https://github.com/randm-ch/meet-and-tech
+
+  // Other endpoints:
+  // raphael.maeder@leonteq.com
+  // Twitter: @randm_ch
 
 }
